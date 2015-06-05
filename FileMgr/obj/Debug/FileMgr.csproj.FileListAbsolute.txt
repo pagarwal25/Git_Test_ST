@@ -1,0 +1,18 @@
+c:\users\smruti\documents\visual studio 2013\Projects\VSHelp\FileMgr\bin\Debug\FileMgr.exe.config
+c:\users\smruti\documents\visual studio 2013\Projects\VSHelp\FileMgr\bin\Debug\FileMgr.exe
+c:\users\smruti\documents\visual studio 2013\Projects\VSHelp\FileMgr\bin\Debug\FileMgr.pdb
+c:\users\smruti\documents\visual studio 2013\Projects\VSHelp\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+c:\users\smruti\documents\visual studio 2013\Projects\VSHelp\FileMgr\obj\Debug\FileMgr.exe
+c:\users\smruti\documents\visual studio 2013\Projects\VSHelp\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\Smruti\Documents\Visual Studio 2013_OLD\Projects\VSHelp\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\Smruti\Documents\Visual Studio 2013_OLD\Projects\VSHelp\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\Smruti\Documents\Visual Studio 2013_OLD\Projects\VSHelp\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\Smruti\Documents\Visual Studio 2013_OLD\Projects\VSHelp\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\Smruti\Documents\Visual Studio 2013_OLD\Projects\VSHelp\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\Smruti\Documents\Visual Studio 2013_OLD\Projects\VSHelp\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\Smruti\Desktop\Smruti\Studies\SMA\ASSIGNMENTS\Project 2\SUBMISSION\SmrutiTatavarthy-project2\SmrutiTatavarthy-project2\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\Smruti\Desktop\Smruti\Studies\SMA\ASSIGNMENTS\Project 2\SUBMISSION\SmrutiTatavarthy-project2\SmrutiTatavarthy-project2\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\Smruti\Desktop\Smruti\Studies\SMA\ASSIGNMENTS\Project 2\SUBMISSION\SmrutiTatavarthy-project2\SmrutiTatavarthy-project2\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\Smruti\Desktop\Smruti\Studies\SMA\ASSIGNMENTS\Project 2\SUBMISSION\SmrutiTatavarthy-project2\SmrutiTatavarthy-project2\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\Smruti\Desktop\Smruti\Studies\SMA\ASSIGNMENTS\Project 2\SUBMISSION\SmrutiTatavarthy-project2\SmrutiTatavarthy-project2\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\Smruti\Desktop\Smruti\Studies\SMA\ASSIGNMENTS\Project 2\SUBMISSION\SmrutiTatavarthy-project2\SmrutiTatavarthy-project2\FileMgr\obj\Debug\FileMgr.pdb
